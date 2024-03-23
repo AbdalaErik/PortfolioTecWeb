@@ -9,6 +9,6 @@ Atividade referente à oficina de **HTML**, **CSS** e **Tailwind CSS** ministrad
 ---
 
 **IFSULDEMINAS - Câmpus Muzambinho**  
-**Curso:** Ciência da Computação
-**Disciplina:** Tecnologias Web
-**Docente:** Gustavo José
+**Curso:** Ciência da Computação  
+**Disciplina:** Tecnologias Web  
+**Docente:** Gustavo José  
