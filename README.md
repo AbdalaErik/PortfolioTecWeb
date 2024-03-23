@@ -8,6 +8,7 @@ Atividade referente à oficina de **HTML**, **CSS** e **Tailwind CSS** ministrad
 
 ---
 
-**Curso:** Ciência da Computação  
-**Disciplina:** Tecnologias Web  
-**Docente:** Gustavo José  
+**IFSULDEMINAS - Câmpus Muzambinho**  
+**Curso:** Ciência da Computação
+**Disciplina:** Tecnologias Web
+**Docente:** Gustavo José
